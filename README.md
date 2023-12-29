@@ -57,20 +57,20 @@ Exploratory data analysis is done to answer the listed questions and aims of thi
 How many unique cities does the data have?   
 In which city is each branch?
 How many branches does each city have?
-## Product Related Questions
-How many unique product lines does the data have?
-What is the most common payment method?
-What is the most selling product line?
-What is the total revenue by month?
-What month had the largest COGS?
-What product line had the largest revenue?
-What is the city with the largest revenue?
-What product line had the largest VAT?
-Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
-Which branch sold more products than average product sold?
-What is the most common product line by gender?
-What is the average rating of each product line?
-## Sales Related Questions
+## Product Related Questions  
+How many unique product lines does the data have?   
+What is the most common payment method?   
+What is the most selling product line?   
+What is the total revenue by month?   
+What month had the largest COGS?    
+What product line had the largest revenue?    
+What is the city with the largest revenue?    
+What product line had the largest VAT?  
+Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales   
+Which branch sold more products than average product sold?  
+What is the most common product line by gender?   
+What is the average rating of each product line?   
+## Sales Related Questions  
 Number of sales made in each time of the day per weekday
 Which of the customer types brings the most revenue?
 Which city has the largest tax percent/ VAT (Value Added Tax)?
