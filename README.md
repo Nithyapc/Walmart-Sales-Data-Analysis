@@ -87,3 +87,7 @@ Which time of the day do customers give most ratings?
 Which time of the day do customers give most ratings per branch?  
 Which day fo the week has the best avg ratings?  
 Which day of the week has the best average ratings per branch?  
+
+# Revenue And Profit Calculations
+ $COGS = unitsPrice * quantity  
+ VAT = 5% * COGS $  
