@@ -76,7 +76,7 @@ Which of the customer types brings the most revenue?
 Which city has the largest tax percent/ VAT (Value Added Tax)?
 Which customer type pays the most in VAT?
 ## Customer Related Questions
-How many unique customer types does the data have?
+How many unique customer types does the data have?  
 How many unique payment methods does the data have?
 What is the most common customer type?
 Which customer type buys the most?
